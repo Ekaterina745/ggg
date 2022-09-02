@@ -1,0 +1,20 @@
+C:\Users\ПК-4\source\repos\practich1\bin\Debug\practich1.exe.config
+C:\Users\ПК-4\source\repos\practich1\bin\Debug\practich1.exe
+C:\Users\ПК-4\source\repos\practich1\bin\Debug\practich1.pdb
+C:\Users\ПК-4\source\repos\practich1\obj\Debug\practich1.csproj.AssemblyReference.cache
+C:\Users\ПК-4\source\repos\practich1\obj\Debug\practich1.Form1.resources
+C:\Users\ПК-4\source\repos\practich1\obj\Debug\practich1.Properties.Resources.resources
+C:\Users\ПК-4\source\repos\practich1\obj\Debug\practich1.csproj.GenerateResource.cache
+C:\Users\ПК-4\source\repos\practich1\obj\Debug\practich1.csproj.CoreCompileInputs.cache
+C:\Users\ПК-4\source\repos\practich1\obj\Debug\practich1.exe
+C:\Users\ПК-4\source\repos\practich1\obj\Debug\practich1.pdb
+Y:\303 гр 2022 год\уч практика\отчеты\Овчинников\practich1\bin\Debug\practich1.exe.config
+Y:\303 гр 2022 год\уч практика\отчеты\Овчинников\practich1\bin\Debug\practich1.exe
+Y:\303 гр 2022 год\уч практика\отчеты\Овчинников\practich1\bin\Debug\practich1.pdb
+Y:\303 гр 2022 год\уч практика\отчеты\Овчинников\practich1\obj\Debug\practich1.csproj.AssemblyReference.cache
+Y:\303 гр 2022 год\уч практика\отчеты\Овчинников\practich1\obj\Debug\practich1.Form1.resources
+Y:\303 гр 2022 год\уч практика\отчеты\Овчинников\practich1\obj\Debug\practich1.Properties.Resources.resources
+Y:\303 гр 2022 год\уч практика\отчеты\Овчинников\practich1\obj\Debug\practich1.csproj.GenerateResource.cache
+Y:\303 гр 2022 год\уч практика\отчеты\Овчинников\practich1\obj\Debug\practich1.csproj.CoreCompileInputs.cache
+Y:\303 гр 2022 год\уч практика\отчеты\Овчинников\practich1\obj\Debug\practich1.exe
+Y:\303 гр 2022 год\уч практика\отчеты\Овчинников\practich1\obj\Debug\practich1.pdb
